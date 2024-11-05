@@ -8,33 +8,33 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>SEPARATOR</link_type>
+        <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Loaner Request</mobile_title>
+        <mobile_title>Loaner Tasks</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name/>
-        <order>100</order>
+        <name>x_cdltd_loaner_req_loaner_task</name>
+        <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
         <roles>x_cdltd_loaner_req.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-10-25 20:24:28</sys_created_on>
+        <sys_created_on>2024-11-03 23:44:59</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>f69eda50836112107f4431980fda1e9f</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Loaner Request</sys_name>
+        <sys_id>80d2ed57836152107f4431980fda1e27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Tasks</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">8afd9e50836112107f4431980fda1ea5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">8afd9e50836112107f4431980fda1ea5</sys_scope>
-        <sys_update_name>sys_app_module_f69eda50836112107f4431980fda1e9f</sys_update_name>
+        <sys_update_name>sys_app_module_80d2ed57836152107f4431980fda1e27</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-04 20:34:28</sys_updated_on>
+        <sys_updated_on>2024-11-03 23:44:59</sys_updated_on>
         <timeline_page/>
-        <title>Loaner Request</title>
+        <title>Loaner Tasks</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
